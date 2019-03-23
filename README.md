@@ -1,4 +1,4 @@
-_"I bet they're both laughing about this"_ - M.M.
+_"I bet they're both laughing about this"_ - M
 
 ## It happened gradually.
 
@@ -40,11 +40,11 @@ The safest place to be is a place others don't know can exist.
 
 They'd _never_ think to look there.
 
-<br />
-<br />
-
 <!-- I can't seem to get out -->
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
