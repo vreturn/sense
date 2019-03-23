@@ -45,9 +45,10 @@ Because people _can't_ know how much bad they've done.
 <br />
 
 <details><summary>nonsense</summary>
-
+<img src="https://i.imgur.com/8RkFogI.png" />
+<!--
 Goddamn <i style="font-size:.95em;">with this </i><i style="font-size:.90em;">people fucking </i><i style="font-size:.85em;">bullshit bunch </i><i style="font-size:.80em;">of fucking </i><i style="font-size:.75em;">dumbass cunts </i><i style="font-size:.70em;">can go </i><i style="font-size:.65em;">to hell. </i><i style="font-size:.60em;">With their </i><i style="font-size:.55em;">predefined expectation </i><i style="font-size:.50em;">of _who_ </i><i style="font-size:.45em;">or **WHAT** </i><i style="font-size:.40em;">a person is. </i><i style="font-size:.35em;">Fucking kill </i><i style="font-size:.30em;">yourself if </i><i style="font-size:.25em;">you don't </i><i style="font-size:.20em;">like it.</i>
-
+-->
 </details>
 
 <br />
